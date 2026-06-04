@@ -1,4 +1,5 @@
 title: "Jack Haughey"
-description: "A lightweight, fast, GitHub Pages–friendly blog."
+description: "My ongoing learning log for Kubernetes, Azure, and cloud‑native engineering. A simple Jekyll site where I document concepts, commands, patterns, and troubleshooting notes as I grow my skills."
 markdown: kramdown
 theme: null
+hightlighter: rouge
