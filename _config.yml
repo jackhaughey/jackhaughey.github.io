@@ -3,3 +3,5 @@ description: "My ongoing learning log for Kubernetes, Azure, and cloud‑native 
 markdown: kramdown
 theme: null
 hightlighter: rouge
+github_username: jackhaughey
+github_repo: jackhaughey.github.io
