@@ -1,13 +1,13 @@
-/* --- Base Layout --- */
+/* --- Base Typography --- */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   max-width: 800px;
   margin: 40px auto;
   padding: 0 20px;
-  line-height: 1.6;
+  line-height: 1.7;
   font-size: 17px;
   color: #222;
-  background: #ffffff;
+  background: #fafafa;
 }
 
 /* --- Headings --- */
@@ -19,8 +19,8 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-size: 1.9rem;
-  border-bottom: 1px solid #e5e5e5;
+  font-size: 2rem;
+  border-bottom: 2px solid #e5e5e5;
   padding-bottom: 0.3rem;
 }
 
@@ -45,8 +45,9 @@ pre, code {
 }
 
 pre {
-  background: #f5f5f5;
-  padding: 12px;
+  background: #1e1e1e;
+  color: #eaeaea;
+  padding: 15px;
   border-radius: 6px;
   overflow-x: auto;
   margin: 1.5rem 0;
@@ -60,7 +61,7 @@ code {
 
 /* --- Blockquotes --- */
 blockquote {
-  border-left: 4px solid #ddd;
+  border-left: 4px solid #ccc;
   padding-left: 1rem;
   color: #555;
   margin: 1.5rem 0;
@@ -71,4 +72,17 @@ hr {
   border: none;
   border-top: 1px solid #ddd;
   margin: 2rem 0;
+}
+
+/* --- Post List on Home Page --- */
+.post-list li {
+  margin-bottom: 0.5rem;
+}
+
+/* --- Footer (optional) --- */
+footer {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #777;
+  text-align: center;
 }
