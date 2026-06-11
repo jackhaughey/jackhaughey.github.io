@@ -1,6 +1,6 @@
-# Cloud Engineering Notes — Kubernetes & Azure
+# Cloud Engineering Notes — Kubernetes, Terraform & Azure
 
-A minimal Jekyll-powered blog used as a personal knowledge base for continuous learning in Kubernetes, Azure, and cloud engineering.  
+A minimal Jekyll-powered blog used as a personal knowledge base for continuous learning in Kubernetes, Azure, Terraform and cloud engineering.  
 The site is intentionally simple: Markdown notes, a single layout, and GitHub Pages for hosting.
 
 ## Purpose
