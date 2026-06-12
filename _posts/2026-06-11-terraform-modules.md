@@ -1,6 +1,6 @@
 # Terraform modules
 
 Reminder of how Terraform scales;
-- ```envs/dev``` is how you deploy the AKS cluster.
-- ```modules/aks``` is what the AKS cluster is made of.
+- ```envs/dev``` is how you deploy for example an AKS cluster.
+- ```modules/aks``` is what, for example the AKS cluster is made of.
 
