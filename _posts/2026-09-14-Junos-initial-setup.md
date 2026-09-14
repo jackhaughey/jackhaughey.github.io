@@ -6,7 +6,10 @@ Auto Image Upgrade.
 
 To disable them, I ran;
 ```
-configure
-delete chassis auto-image-upgrade
-commit
+root@:~ # cli
+root> configure
+[edit]
+root# delete chassis auto-image-upgrade
+[edit]
+root# commit
 ```
