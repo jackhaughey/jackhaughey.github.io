@@ -1,6 +1,6 @@
 # Building an RHCSA Storage Server on RHEL 10 for a Kubernetes Homelab
 
-This guide walks through the creation of a dedicated storage server that will later provide NFS-backed storage to a Kubernetes cluster. The configuration demonstrates several RHCSA objectives, including:
+This guide walks through the creation of a dedicated storage server that will later provide NFS-backed storage to a Kubernetes cluster. The configuration also several RHCSA objectives, including:
 
 - LVM administration
 - XFS filesystem management
