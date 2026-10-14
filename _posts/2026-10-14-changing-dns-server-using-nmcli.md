@@ -4,7 +4,7 @@ _Performed on a RHEL type system_
 
 Using the command line, identify the interface/connection;
 ```
-
+nmcli connection show
 ```
 
 Then change the address of the DNS server;
