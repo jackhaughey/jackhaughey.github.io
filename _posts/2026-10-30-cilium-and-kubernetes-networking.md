@@ -86,7 +86,7 @@ and Kubernetes performs the load balancing.
 
 ## Where Cilium Fits
 
-One thing I noticed during installation was that Cilium deployed both ```cilium``` and ```cilium-pods``` pods.
+One thing I noticed during installation was that Cilium deployed both ```cilium``` and ```cilium-envoy``` pods.
 
 Initially I assumed Envoy was responsible for all networking traffic.
 
